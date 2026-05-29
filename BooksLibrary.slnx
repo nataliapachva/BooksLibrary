@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/BooksLibrary.Console/BooksLibrary.Console.csproj" />
+  <Project Path="tests/BooksLibrary.Tests/BooksLibrary.Tests.csproj" />
+  <Project Path="src/BooksLibrary/BooksLibrary.csproj" />
+  <Project Path="tests/Xml.IO.Tests/Xml.IO.Tests.csproj" />
+  <Project Path="src/Xml.IO/Xml.IO.csproj" />
+</Solution>

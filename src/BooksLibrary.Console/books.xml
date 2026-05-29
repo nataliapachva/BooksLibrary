@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>The Ugly Duckling</Title>
+    <Author>Andersen</Author>
+    <Pages>150</Pages>
+  </Book>
+  <Book>
+    <Title>The Shining</Title>
+    <Author>King</Author>
+    <Pages>500</Pages>
+  </Book>
+  <Book>
+    <Title>The Little Mermaid</Title>
+    <Author>Andersen</Author>
+    <Pages>120</Pages>
+  </Book>
+</ArrayOfBook>
